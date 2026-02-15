@@ -1,6 +1,3 @@
-Here is the raw syntax for your **Smart-AC-Modernizer** README. You can copy this entire block and paste it directly into your `README.md` file on GitHub.
-
-```markdown
 # Smart-AC-Modernizer: Reverse Engineering Legacy IR Protocols
 
 ![Project Header](assets/ac_project_banner.jpg)
